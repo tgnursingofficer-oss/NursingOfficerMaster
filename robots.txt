@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+
+Sitemap: https://tgnursingofficer-oss.github.io/NursingOfficerMaster/sitemap.xml
